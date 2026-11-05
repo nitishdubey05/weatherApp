@@ -1,0 +1,3 @@
+@echo off
+echo Opening Weather Radar in your default browser...
+start "" "index.html"
